@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  version        = “0.0.1”
+  version        = “0.0.2”
   s.name         = "songboFirstFrameWork"
   s.version      = version
   s.summary      = "Yet another URL Router for iOS."
